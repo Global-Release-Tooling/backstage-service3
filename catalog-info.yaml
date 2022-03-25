@@ -16,3 +16,4 @@ spec:
   type: service
   lifecycle: unknown
   owner: backstage
+  dependsOn: ['resource:backstage-service1']
