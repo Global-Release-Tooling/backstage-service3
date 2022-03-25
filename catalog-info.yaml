@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: backstage-service3
-  description: Artist Lookup
+  description: This is the description of the service 3
   tags:
     - go
     - backend
