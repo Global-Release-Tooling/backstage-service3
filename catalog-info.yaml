@@ -12,7 +12,7 @@ metadata:
       icon: DeveloperBoard
   annotations:
     github.com/project-slug: Global-Release-Tooling/backstage-service3
-    backstage.io/techdocs-ref: url:https://github.com/Global-Release-Tooling/backstage-service3/actions
+    backstage.io/techdocs-ref: url:https://github.com/Global-Release-Tooling/backstage-service3/tree/main/docs
 spec:
   type: service
   lifecycle: unknown
