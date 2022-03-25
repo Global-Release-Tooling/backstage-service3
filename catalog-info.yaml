@@ -16,4 +16,4 @@ spec:
   type: service
   lifecycle: unknown
   owner: backstage
-  dependsOn: ['component:backstage-service1','component:backstage-service2']
+  dependsOn: ['component:backstage-service1','component:backstage-service2','API:starwars-graphql']
